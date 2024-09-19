@@ -17,3 +17,4 @@ In your solution you must provide the following in your Github link account:
   Problem statement (description of the problem. Just copy what is stated here.
   Uploaded java codes for the solution.
 Upload your GitHub Solution link here.
+![Smart Automaton System (2)](https://github.com/user-attachments/assets/bcd57ddd-682c-4d12-8017-babc54657e73)
